@@ -8,3 +8,6 @@ Exposes the following methods:
  - `failure` indicates the failure of a high-level task
  - `subprompt` prints a subtask input prompt
  - `prompt` prints a high-level input prompt
+
+You can see a demo by running `demo.py`:
+![Pretty-looking nested console output](/demo.png?raw=true)
