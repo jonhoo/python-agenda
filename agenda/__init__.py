@@ -10,7 +10,7 @@ from termcolor import colored
 
 
 def section(name):
-    print('{} {}'.format(
+    print("\n{} {}".format(
         colored("::", 'blue', attrs=['bold']),
         colored(name, attrs=['bold'])
         )

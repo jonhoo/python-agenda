@@ -10,7 +10,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='agenda',
-    version='1.0.1',
+    version='1.0.2',
     license='MIT',
 
     description='Module for pretty task logging',
